@@ -62,7 +62,7 @@ For animation I have used Framer motion library.
 
 ## Live project link
 
-https://scenario-vehicle-debz.netlify.app/
+https://app.netlify.com/teams/satyaharika1235/overview
 
 ## Preview
 
